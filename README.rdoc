@@ -9,21 +9,25 @@ This application has the following features:
 ### Ruby version: 2.3.0 / Rails Version: 4.2.5 
 
 ### User authentication
-    * Users can create new account.
-    * Users can login / logout from their session.
+
+* Users can create new account.
+* Users can login / logout from their session.
 
 ### Posts
-    * Users can create new posts.
-    * Users can edit their own posts.
-    * Users can delete their own posts.
+
+* Users can create new posts.
+* Users can edit their own posts.
+* Users can delete their own posts.
 
 ### Rating
-    * Users can rate books.
-    * Users can edit their ratings.
-    * Users can delete their ratings.
+
+* Users can rate books.
+* Users can edit their ratings.
+* Users can delete their ratings.
 
 ### Filtering by category
-    * Users can filter book by category
+
+* Users can filter book by category
 
 * How to run the test suite
 
