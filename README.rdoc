@@ -1,17 +1,26 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+** Book Review App
 
-Things you may want to cover:
+This is a simple Book Review Application using Ruby on Rails.
 
-* Ruby version
+This application has the following features:
 
-* System dependencies
+* Ruby version: 2.3.0 / Rails Version: 4.2.5 
 
-* Configuration
+* User authentication
+    - Users can create new account.
+    - Users can login / logout from their session.
 
-* Database creation
+* Posts
+    - Users can create new posts.
+    - Users can edit their own posts.
+    - Users can delete their own posts.
+
+* Rating
+    - Users can rate books.
+    - Users can edit their ratings.
+    - Users can delete their ratings.
 
 * Database initialization
 
